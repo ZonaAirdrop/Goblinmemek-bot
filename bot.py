@@ -40,13 +40,9 @@ class Goblin:
 
     def welcome(self):
         print(Fore.LIGHTGREEN_EX + Style.BRIGHT + "\n" + "═" * 90)
-        print(Fore.GREEN + Style.BRIGHT + "    ⚡ Goblin Meme Automation BOT ⚡")
+        print(Fore.GREEN + Style.BRIGHT + "    ⚡ Goblin Auto Mining BOT ⚡")
         print(Fore.CYAN + Style.BRIGHT + "    ────────────────────────────────")
-        print(Fore.YELLOW + Style.BRIGHT + "    🧠 Project    : Goblin Meme - Automation Bot")
-        print(Fore.YELLOW + Style.BRIGHT + "    🧑‍💻 Author     : YetiDAO")
-        print(Fore.YELLOW + Style.BRIGHT + "    🌐 Status     : Running & Mining...")
-        print(Fore.CYAN + Style.BRIGHT + "    ────────────────────────────────")
-        print(Fore.MAGENTA + Style.BRIGHT + "    🧬 Powered by Cryptodai3 × YetiDAO | Buddy v1.0 🚀")
+        print(Fore.MAGENTA + Style.BRIGHT + "     Powered Zona Airdrop")
         print(Fore.LIGHTGREEN_EX + Style.BRIGHT + "═" * 90 + "\n")
 
     def format_seconds(self, seconds):
