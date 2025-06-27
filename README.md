@@ -51,3 +51,6 @@ http://user:pass@ip:port
 ```bash
 python bot.py
 ```
+- Tutorial Get COOKIE
+- >![image](https://github.com/user-attachments/assets/39cfc11a-6d7d-47fe-954a-ce88034308dd)
+ 
