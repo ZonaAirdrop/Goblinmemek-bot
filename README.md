@@ -34,7 +34,7 @@ your_cookie_1
 your_cookie_2
 ```
 
-### `proxy.txt`
+### `proxy.txt` (Optional)
 
 Add one proxy per line. Supported formats:
 
