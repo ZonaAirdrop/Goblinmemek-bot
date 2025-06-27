@@ -4,15 +4,14 @@
 
 > - Auto Get Account Information  
 > - Auto Mining & Open Box  
-> - Multi-Accounts with Threading  
-> - Auto Proxy Rotation  
-> - Run with:  
+> - Multi-Account Support with Threading  
+> - Automatic Proxy Rotation  
+> - Supports:
 >   - Free Public Proxy (Option 1)  
 >   - Private Proxy (Option 2)  
->   - Without Proxy (Option 3)  
+>   - No Proxy (Option 3)  
 > - Smart Invalid Proxy Skipping  
-> - Cookie-based Authentication
-> -   
+> - Cookie-Based Authentication  
 
 ## Installation
 
@@ -24,24 +23,31 @@ pip install -r requirements.txt
 
 ## Configuration
 
-Prepare your cookie(s) and proxy list:
+Create the following files in the project directory:
 
-**Cookies (one per line):**
+### `cookies.txt`
+
+Add one cookie per line:
+
 ```
 your_cookie_1
 your_cookie_2
 ```
 
-**Proxy format (choose one):**
+### `proxy.txt`
+
+Add one proxy per line. Supported formats:
+
 ```
 ip:port
 http://ip:port
 http://user:pass@ip:port
 ```
 
-## Run the Bot
+> If you don't want to use a proxy, leave this file empty or choose the "No Proxy" option when running the bot.
+
+## Running the Bot
 
 ```bash
 python bot.py
 ```
-
