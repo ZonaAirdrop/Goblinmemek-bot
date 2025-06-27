@@ -2,16 +2,17 @@
 
 ## Features
 
-- Auto Get Account Information  
-- Auto Mining & Open Box  
-- Multi-Accounts with Threading  
-- Auto Proxy Rotation  
-- Run with:
-  - Free Public Proxy (Option 1)  
-  - Private Proxy (Option 2)  
-  - Without Proxy (Option 3)  
-- Smart Invalid Proxy Skipping  
-- Cookie-based Authentication  
+> - Auto Get Account Information  
+> - Auto Mining & Open Box  
+> - Multi-Accounts with Threading  
+> - Auto Proxy Rotation  
+> - Run with:  
+>   - Free Public Proxy (Option 1)  
+>   - Private Proxy (Option 2)  
+>   - Without Proxy (Option 3)  
+> - Smart Invalid Proxy Skipping  
+> - Cookie-based Authentication
+> -   
 
 ## Installation
 
